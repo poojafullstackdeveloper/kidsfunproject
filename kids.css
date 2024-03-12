@@ -34,3 +34,13 @@ position: fixed;
 bottom: 0;
 width: 100%;
 }
+.image{
+    float: right;
+    border-radius: 10%;
+}
+.images{
+    border-radius: 10%;
+}
+.first-container{
+    background-color: #ffccf9;
+}
